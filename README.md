@@ -15,6 +15,7 @@ npm start
 ```
 
 IMPORTANT: RUN CLIENT ON LOCALHOST:3000
+
 .\client
 ```
 npm start
